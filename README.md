@@ -2,7 +2,7 @@
 <img src="https://developers.google.com/community/dsc/images/dsc_lockup.png" height="100px">
 
 **SOURCE CODE ( GOOLGE COLAB )** 
- - *https://colab.research.google.com/drive/1lwY-Y4K7jAKbPFivsp5wrVZz-BTF3Udr#scrollTo=nQOdXhjXD_AE*
+ - *https://colab.research.google.com/drive/1lwY-Y4K7jAKbPFivsp5wrVZz-BTF3Udr?usp=sharing*
  - Provided as Hactoberfest_DSC_JIIT128_Regression.ipynb in the root directory.
 
 **TASK**
