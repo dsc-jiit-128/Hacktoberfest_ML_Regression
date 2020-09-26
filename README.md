@@ -1,5 +1,5 @@
 # POLYNOMIAL REGRESSION
-<img src="https://developers.google.com/community/dsc/images/dsc_lockup.png" height="100px">
+<img src="./jiit128.png" >
 
 **SOURCE CODE ( GOOLGE COLAB )** 
  - *https://colab.research.google.com/drive/1lwY-Y4K7jAKbPFivsp5wrVZz-BTF3Udr?usp=sharing*
