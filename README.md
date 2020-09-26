@@ -1,4 +1,5 @@
 # HACKTOBERFEST 2020 is here! ✨
+# Enjoy Machine Learning!
 <img src="./jiit128.png" >
 
 ## Boston House Pricing
@@ -30,6 +31,6 @@
 
 [2]: http://www.facebook.com/dscjiitnoida/
 
-### Hurray! You just got closer to completing your Hacktoberfest challenge.
+### HURRAYYY!!! You just got closer to completing your Hacktoberfest challenge.🌱
 
  
