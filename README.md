@@ -1,5 +1,6 @@
-# POLYNOMIAL REGRESSION
+# HACKTOBERFEST 2020 is here! ✨
 <img src="./jiit128.png" >
+# Boston House Pricing
 
 **SOURCE CODE ( GOOLGE COLAB )** 
  - *https://colab.research.google.com/drive/1lwY-Y4K7jAKbPFivsp5wrVZz-BTF3Udr?usp=sharing*
@@ -12,7 +13,7 @@
 
  - Fork the repository and clone.
  - Upload your notebook in .ipynb format inside Submissions folder.
- - The file name should be of the format: <Your_Name>_<Your_Batch>    For example: ManasDalakoti_f2.ipynb
+ - The file name should be of the format: <Your_Name>_<Your_College>    For example: ManasDalakoti_JIIT128.ipynb
  - Then add a Pull Request.
 
 **Important Notes**
@@ -28,5 +29,6 @@
 
 [2]: http://www.facebook.com/dscjiitnoida/
 
-### Enjoy Machine Learning!!
+### Hurray! You just got closer to completing your Hacktoberfest challenge.
+
  
