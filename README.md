@@ -1,6 +1,7 @@
 # HACKTOBERFEST 2020 is here! ✨
 <img src="./jiit128.png" >
-# Boston House Pricing
+
+## Boston House Pricing
 
 **SOURCE CODE ( GOOGLE COLAB )** 
  - *https://colab.research.google.com/drive/1lwY-Y4K7jAKbPFivsp5wrVZz-BTF3Udr?usp=sharing*
