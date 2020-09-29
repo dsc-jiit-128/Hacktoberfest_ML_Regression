@@ -1,7 +1,7 @@
 # HACKTOBERFEST 2020 is here! ✨
 <img src="./jiit128.png" >
 
-[![HitCount](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_classification.svg)](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_Regression)
+[![HitCount](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_Regression.svg)](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_Regression)
 [![GitHub stars](https://img.shields.io/github/stars/dsc-jiit-128/Hacktoberfest_ML_Regression?color=green)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_Regression/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/dsc-jiit-128/Hacktoberfest_ML_Regression?color=green)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_Regression/network)
 [![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/Hacktoberfest_ML_Regression)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_Regression/issues)
